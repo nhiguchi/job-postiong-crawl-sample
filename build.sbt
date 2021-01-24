@@ -2,7 +2,7 @@ name := "job-postiong-crawl-sample"
 
 version := "0.1"
 
-scalaVersion := "2.12.8"
+scalaVersion := "2.12.13"
 
 libraryDependencies ++= Seq(
   "org.jsoup" % "jsoup" % "1.11.3",
